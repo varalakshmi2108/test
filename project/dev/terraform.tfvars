@@ -1,0 +1,5 @@
+aws_region="us-east-1"
+vpc_cidr      = "10.0.0.0/16"
+instance_type = "t2.micro"
+ec2_count     = "2"
+ami_id="ami-0c02fb55956c7d316"
